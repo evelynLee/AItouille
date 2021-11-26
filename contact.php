@@ -3,7 +3,7 @@
 /* Code by David McKeown - craftedbydavid.com */
 /* Editable entries are bellow */
 
-$send_to = "tibame1102A@gmail.com"; //Change to Your Own Email address here.
+$send_to = "AItouille.TW@gmail.com"; //Change to Your Own Email address here.
 $send_subject = "客服信箱";
 
 

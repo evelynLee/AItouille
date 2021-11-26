@@ -1325,8 +1325,9 @@ blockquote {
   font-size: 15px;
 }
 .team-item-position {
-  font-size: 11px;
+  font-size: 1.3rem;
   color: #aaaaaa;
+  margin-top: 1rem;
 }
 .team-item:hover .team-item-image-overlay {
   top: 0;
