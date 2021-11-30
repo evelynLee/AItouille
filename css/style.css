@@ -1272,6 +1272,7 @@ blockquote {
 .team-item-image {
   position: relative;
   overflow: hidden;
+  width: 90%;
 }
 .team-item-image-overlay {
   position: absolute;
