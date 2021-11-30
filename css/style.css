@@ -1272,7 +1272,8 @@ blockquote {
 .team-item-image {
   position: relative;
   overflow: hidden;
-  width: 90%;
+  width: 100%;
+  margin-left: auto;
 }
 .team-item-image-overlay {
   position: absolute;
@@ -1287,6 +1288,7 @@ blockquote {
 }
 .team-item-image img {
   width: 100%;
+  /* margin-left: auto; */
 }
 .team-item-icons {
   position: absolute;
