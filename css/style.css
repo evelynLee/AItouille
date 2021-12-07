@@ -1074,7 +1074,7 @@ blockquote {
 ---------------------------------------------------*/
 .service {
   background-color: #f8f8f8;
-  padding: 40px 30px 30px;
+  /* padding: 40px 30px 30px; */
   -webkit-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
