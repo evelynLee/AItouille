@@ -687,6 +687,9 @@ blockquote {
 .m-top-80 {
   margin-top: 80px;
 }
+.m-top-90 {
+  margin-top: 90px;
+}
 .m-top-100 {
   margin-top: 100px;
 }
@@ -719,6 +722,9 @@ blockquote {
 }
 .m-bottom-140 {
   margin-bottom: 140px;
+}
+.m-left-30 {
+  margin-left: 30px;
 }
 /*--------------------------------------------------
     06. Page Preloader
@@ -1332,7 +1338,7 @@ blockquote {
   font-size: 1.28rem;
     color: #666666;
     margin-top: 1rem;
-    height: 30px;
+    height: 50px;
     padding: 0 10px;
     text-align: left;
 }
@@ -2043,7 +2049,7 @@ blockquote {
 }
 .linebot {
   width: 80px;
-  margin-right: 70px;
+  margin-right: 50px;
 }
 @media screen and (max-width: 768px) {
   .site-footer .pull-right {
