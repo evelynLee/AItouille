@@ -524,6 +524,7 @@ p {
 .bigger-font {
   font-size: 50px;
 }
+
 .white-color,
 .white-color h1,
 .white-color h2,
@@ -689,6 +690,9 @@ blockquote {
 }
 .m-top-90 {
   margin-top: 90px;
+}
+.m-top-95 {
+  margin-top: 95px;
 }
 .m-top-100 {
   margin-top: 100px;
@@ -2031,7 +2035,7 @@ blockquote {
   color: #ed5f5e;
 }
 .site-footer .social-icon {
-  padding: 5px 0px;
+  padding: 8px 0px;
 }
 .site-footer .social-icon a i {
   width: 28px;
